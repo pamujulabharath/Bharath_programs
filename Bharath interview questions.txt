@@ -1,0 +1,92 @@
+-------calsoft(19-01-2022)-------
+tell your work experience
+datatypes in python
+diff btw list and tuple
+diff btw mutable and immutable
+explian dict datatypes
+program on string "this is calsoft interview", output = "interview calsoft is this"
+program on list take two list and display duplicate value
+explian about request module
+explain about functional testing
+
+-------qentille(20-01-2022)----------
+introduce yourself
+expalin decorators
+program on decorators
+program on count char in string
+explain list comprehesion
+write a program on list comprehesion
+write program on lambda function
+why pytest is familiar what is diff btw pytest and other test modules
+what are markers ?
+what is group testing?
+write a program on fixtures?
+
+--------accolite(20-01-2022)--------
+introduce yourself
+what is use of remoteng?
+what is subprocess?
+what do you use memory devies for?
+how will you rate on python?
+write program on list find sum of highest last three nums?
+write program count of char in a string?
+write a program on reverse a string?
+have you know about tests like smoke or reggresion test?
+how do you connect to api?
+what issue you have occur in project?
+what do test on memory devices?
+how much time do you take to learn selenium?
+
+------qentille technical round-II (21-01-2022)--------
+introduce yourself?
+explain about project?
+how you worked on agile methodology?
+you said sprint is two weeks you have not resolved issue how you can handle?
+take a sutitation you and another person taken a project and he not agreeing with you how could you convince him?
+if you have selenium project how your going to handle the project and deadline is 3 months?
+have you participated in scrum meetings?
+what is your strength?
+what are pros of your organisation?
+what are cons of your organisation?
+are you have any certifications?
+do you have any offers?
+
+----------mindtech technical round- I (24-01-2022)-------
+introduce yourself
+day to day deliverables?
+what is your team size?
+rate yourself in python?
+latest version python and sub version?
+feature of python?
+cons in python?
+what is namespaces?
+what pip?
+what is lambda function?
+take a string your name count the char by using lambda function?(form in dict)
+in above program key and value should be in list of tuples?
+what is use of enum?
+insert an element in tuple?
+what is unpacking and packing?
+what group of element assign to varible separated by comma what is the type?
+what is shallow copy and deep copy?
+what is self in oops?
+can we any name instead of self?
+what is empty class?
+what is constuctor? write a program?
+what is destructor? write a program?
+can you define own destructor?
+what is inheritance?
+super() and class name they doing same thing but why there are two methods?
+explain method overloading and method overriding?
+what is polymphroism?
+what is enscapulation? write a program?
+have you worked on postman?
+how can you know memory is mount or not?
+how will you check file intergrity?
+do you know about linux?
+have you worked on api tesing?
+you found a bug, how you going to report?
+how do you identify the priority of debug?
+consider you are having the p1 priority bug other teams are not considering it as p1 how do you convince them?
+tell me about negative testing?
+do you have any questions?
