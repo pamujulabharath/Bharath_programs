@@ -1,0 +1,15 @@
+----------------------revlavance lab(02-02-2022)-----------------
+what is architecture  of msv?
+will you test the api?
+what are the http methods?
+can you explain about methods?
+what diff btw tuple and list?
+what is constructor?
+what is namespaces?
+write a program find largest num?
+what is somke testing?
+what is day to day work?
+what about stories?
+what is exception handling?
+what are command pushing code in git?
+have you got any issue with git?
