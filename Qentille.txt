@@ -1,4 +1,4 @@
--------qentille(20-01-2022)----------
+-------qentille(20-01-2022)----------7/10
 introduce yourself
 expalin decorators
 program on decorators
@@ -11,7 +11,7 @@ what are markers ?
 what is group testing?
 write a program on fixtures?
 
-------qentille technical round-II (21-01-2022)--------
+------qentille technical round-II (21-01-2022)--------7/10
 introduce yourself?
 explain about project?
 how you worked on agile methodology?
