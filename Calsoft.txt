@@ -1,4 +1,4 @@
--------calsoft(19-01-2022)-------
+-------calsoft(19-01-2022)-------7/10
 tell your work experience
 datatypes in python
 diff btw list and tuple
