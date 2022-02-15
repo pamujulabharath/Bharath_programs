@@ -1,4 +1,4 @@
-----------------------revlavance lab(02-02-2022)-----------------
+----------------------revlavance lab(02-02-2022)-----------------7/10
 what is architecture  of msv?
 will you test the api?
 what are the http methods?
