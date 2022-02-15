@@ -1,4 +1,4 @@
---------accolite(20-01-2022)--------
+--------accolite(20-01-2022)--------7/10
 introduce yourself
 what is use of remoteng?
 what is subprocess?
@@ -13,7 +13,7 @@ what issue you have occur in project?
 what do test on memory devices?
 how much time do you take to learn selenium?
 
------------------------accolite HR round---------------------------
+-----------------------accolite HR round---------------------------7/10
 brief intro yourself?
 how many memebers in your team?
 recent issues you have faced?
