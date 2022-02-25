@@ -1,0 +1,32 @@
+------------------------------Technical round-1(6.5/10)--------------------------
+
+Breif introduction yourself and resposibilities?
+What are the errors you have seen while flashing?
+What type of dumps you are analysed?(firmware failure)
+What is code called when firmware failure?
+Why do you want to flash the firmware?
+What memory devices consist of?
+Bios is a firmware?
+Why it called bios why won"t called it as firmware?
+Why did you choose for Storage domain?
+Which tool have you used for automation testing?
+What are data structure avalible in python?
+What are dynamic and static data structures?
+Take nested dictonary dict_1 = {"a": 1, "b": 2, "c":3, "d":{"f":4, "r":5, "g": 6}, "f":{"g":5}} i want value 6?
+Repeated count of values in list_1 = [1,2,1,3,2,4,2,4,4,3,3,4]?
+Write function, pass an arugument as string in that count vowels?
+Write function, pass an arugument as string in that count consonats?
+Write the both functions in a class?
+What is positional and keyword arguments?
+Tell me about inheritance?
+Write a program on inheritance have above two functions?
+Create a another file, how to get function from previous file?
+What is debug could you please explain?
+What are decorator?
+Apart from regression testing, what type of testing you are doing?
+what is white and blck box testing?
+As your are test engineer if ther any fialure you have check code,why do you want to apply on product
+do we want to check the test cases of the product?
+which methodolgy you were using?
+What is priority and severity in jira?Which has first preference?
+Any idea about raid mappings?

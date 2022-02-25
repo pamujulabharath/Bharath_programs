@@ -1,0 +1,15 @@
+--------------------------Technical Round -1(8/10)-------------------------
+
+
+Introduce yourself?and your resposibilities?
+What is docstring?
+Can you explain about firmware flashing?
+What is flashing?
+Monkey patching in Python, do you now?
+Convert list of elements to string?
+Match IP address using regex, create it in test file?
+Write a program on decorator?
+have you worked on linux?
+Write a program on inheritance?
+What is your expectation from our side?
+We are working for firmware validation?is it ok for you?
