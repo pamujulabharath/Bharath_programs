@@ -1,0 +1,28 @@
+1) Tell me breify about your project. 
+2) which type of ide did you used in your company for writing scripts. 
+3)write a program reverse string logic. 
+4) write a swap program by using function method. 
+5) write a program by using class with create two objects. 
+6)Tell me one test case on your project. 
+7) Tell me one new advanced feature in your project.
+---------------------------------------------------------------------------------
+1. For which tasks you use automation.
+2. In your project you have written any test cases.
+3.tell me one testcase for which functionality of your product.
+4.what are the methods available in test scripts.
+5.can we modify the elements in tuple even though one of the element  is list?
+6.which elements can be use as keys in dictionary.
+7.Reverse a string with logic
+8. l1=[[1,2,3],[4,5,6],[7,8,9]] 
+  Output= [[1,4,7],[2,5,8],[3,6,9]]
+9.explain.singleton class and its properties
+10.difference between list and set
+11.Fubctional and non-functional testing
+12.what is regression and retesting
+13.what is regression issue
+14.write a program to find the no of bits in an interger
+and Get the position of a particular bit 
+15.Hexadecimal to binary
+-------------------------------------------------------------------------------------
+U have 7 minutes and 9 minutes sand clock how to make it as 15 minutes clock.
+U have 15 chocolate, if u return 3 wrappers u will get 1 chocolate. How many chocolates u have at the end...
